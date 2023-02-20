@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=zNrULfl_TyU&list=PLGcINiGdJE91PBOpuncH7rmkVjlmPXV4d&index=1
+
+1, dowload & cài đặt mongodb
+https://www.mongodb.com/try/download/community
+
+2, dowload & cài đặt mongodb compass
+https://www.mongodb.com/try/download/compass
+
+3, Vào mongodb compass bấm connect
+
+4, tạo hai folder client và server
+5, setup môi trường nodejs
+cd server => npm init -y
+- Thêm câu lệnh trong package.json
+
+6, Cài thư viện
+npm i express dotenv express-async-handler jsonwebtoken mongoose bcrypt
+
+7, Tải nodemon trong môi trường dev
+npm i -D nodemon
