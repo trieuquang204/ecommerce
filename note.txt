@@ -18,3 +18,5 @@ npm i express dotenv express-async-handler jsonwebtoken mongoose bcrypt
 
 7, Tải nodemon trong môi trường dev
 npm i -D nodemon
+
+https://www.youtube.com/watch?v=9G86G3NZxx0&list=PLGcINiGdJE91PBOpuncH7rmkVjlmPXV4d&index=3
